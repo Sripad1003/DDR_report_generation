@@ -1,4 +1,4 @@
-# Antigravity DDR Intelligence
+# DDR Intelligence
 
 An AI-powered diagnostic engine that automatically generates Detailed Diagnostic Reports (DDR) by analyzing site inspection PDFs and thermal imaging reports. Built for the Applied AI Builder Assignment.
 
@@ -56,4 +56,3 @@ npm run dev
 *   **Advanced Visual Analysis**: Use Vision models (Llava/Llama-Vision) for even more precise image-to-text correlation.
 
 ---
-Built by Antigravity AI Assistant.
