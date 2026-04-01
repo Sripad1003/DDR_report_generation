@@ -21,7 +21,7 @@ const App = () => {
   }, []);
   
   // Set default axios base URL for convenience
-  axios.defaults.baseURL = 'http://localhost:8000';
+  axios.defaults.baseURL = 'https://ddr-backend.vercel.app';
 
   const handleGenerate = async (files) => {
     setLoading(true);
