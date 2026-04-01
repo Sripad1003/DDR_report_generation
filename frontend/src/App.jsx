@@ -72,8 +72,8 @@ const App = () => {
               <Shield className="w-6 h-6 text-primary-400" />
             </div>
             <div>
-              <h1 className="text-lg font-black text-slate-900 leading-none tracking-tight">Antigravity</h1>
-              <span className="text-[10px] text-primary-600 font-bold uppercase tracking-widest">DDR Intelligence v1.0</span>
+              <h1 className="text-lg font-black text-slate-900 leading-none tracking-tight">DDR Intelligence</h1>
+              <span className="text-[10px] text-primary-600 font-bold uppercase tracking-widest">v1.0</span>
             </div>
           </div>
           
@@ -232,7 +232,7 @@ const App = () => {
                       <Shield className="w-5 h-5" /> What is DDR Intelligence?
                     </h3>
                     <p className="text-slate-600 leading-relaxed mt-2">
-                      Antigravity DDR Intelligence is an AI-powered analyzer designed for building inspectors. It processes physical site inspection PDF reports and thermal imaging reports to automatically generate a **Detailed Diagnostic Report (DDR)**.
+                      DDR Intelligence is an AI-powered analyzer designed for building inspectors. It processes physical site inspection PDF reports and thermal imaging reports to automatically generate a **Detailed Diagnostic Report (DDR)**.
                     </p>
                   </section>
 
